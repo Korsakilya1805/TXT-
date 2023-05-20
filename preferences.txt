@@ -1,0 +1,6 @@
+favorite movie: Test film
+favorite series Test series
+favorite food>True food
+favorite season  autumn 
+country you would like to visit: Spain 
+
