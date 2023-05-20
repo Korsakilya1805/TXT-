@@ -1,0 +1,5 @@
+name: ilya
+age:39
+Pets: no
+salary:1000
+
